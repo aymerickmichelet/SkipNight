@@ -1,0 +1,5 @@
+name: SkipNight
+version: 1.0.0
+author: aymnms
+main: fr.aymnms.skipnight.SNMain
+api-version: 1.17
